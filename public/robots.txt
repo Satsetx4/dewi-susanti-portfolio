@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://dewi-susanti.vercel.app/sitemap.xml
